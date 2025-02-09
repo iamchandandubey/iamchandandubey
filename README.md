@@ -1,6 +1,6 @@
-# 👨‍💻 **[Your Name] - Full Stack Developer | MERN Stack | Digital Marketing Expert | Graphic Designer**
+# 👨‍💻 **Chandan Kumar Dubey - Full Stack Developer | MERN Stack | Digital Marketing Expert | Graphic Designer**
 
-Welcome to my GitHub profile! I'm [Your Name], a passionate and versatile full-stack web developer with a strong focus on building scalable and high-performance web applications. With expertise in both front-end and back-end technologies, I also have experience in digital marketing and graphic design, making me a well-rounded professional. 
+Welcome to my GitHub profile! I'm Chandan Kumar Dubey, a passionate and versatile full-stack web developer with a strong focus on building scalable and high-performance web applications. With expertise in both front-end and back-end technologies, I also have experience in digital marketing and graphic design, making me a well-rounded professional. 
 
 ## 🚀 **Skills & Technologies**
 
@@ -37,22 +37,14 @@ Welcome to my GitHub profile! I'm [Your Name], a passionate and versatile full-s
 
 ---
 
-## 🛠️ **Some of My Projects:**
-- **Project 1:** [Link to the project] - Description of the project and technologies used.
-- **Project 2:** [Link to the project] - Description of the project and technologies used.
-- **Project 3:** [Link to the project] - Description of the project and technologies used.
-- [Additional projects...]
 
----
 
 ## 📚 **Open to Collaboration:**
 I'm always open to collaborating on new and exciting projects! If you have an idea or want to work together, feel free to reach out.
 
-- **Email:** [Your Email]
-- **LinkedIn:** [LinkedIn Profile]
-- **Portfolio:** [Link to your portfolio or personal website]
-- **Twitter:** [Twitter Handle]
-- **Blog/Medium:** [Link to your blog]
+- **Email:** brandwavestudio@gmail.com
+- **Portfolio:** https://www.brandwavestudio.com
+
 
 ---
 
@@ -65,9 +57,9 @@ I'm always open to collaborating on new and exciting projects! If you have an id
 
 ## 📈 **GitHub Stats:**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamchandandubey&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-[Click here for more details!](https://github.com/YourGitHubUsername)
+[Click here for more details!](https://github.com/iamchandandubey)
 
 ---
 
