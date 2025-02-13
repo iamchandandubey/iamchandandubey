@@ -44,7 +44,7 @@ I'm always open to collaborating on new and exciting projects! If you have an id
 
 - **Email:** brandwavestudio@gmail.com
 - **Portfolio:** https://www.brandwavestudio.com
-- - **LinkedIn:** https://www.linkedin.com/in/iamchandandubey/
+- **LinkedIn:** https://www.linkedin.com/in/iamchandandubey/
 
 
 ---
